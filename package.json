@@ -1,0 +1,23 @@
+{
+  "name": "ramda-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rhavill/ramda-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhavill/ramda-examples/issues"
+  },
+  "homepage": "https://github.com/rhavill/ramda-examples#readme",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
